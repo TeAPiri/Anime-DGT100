@@ -16,6 +16,7 @@
         <p><a href="page1.html">Presentation</a></p>
         <p><a href="page2.html">Story</a></p>
         <p><a href="page3.html">Instructions</a></p>
+        <p><a href="page4.html">Draw</a></p>
     </nav>
     <div id="content">
         <h1>Welcome</h1>

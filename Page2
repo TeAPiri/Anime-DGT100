@@ -6,18 +6,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/main.css">
-    <title>Digital Media. Creating Websites</title>
+    <title><a target="_top" href="https://flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2021/10/18/flamingtext_com_1634594790_313516696.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<br/>Logo Design by <a href="https://flamingtext.com/" >FlamingText.com</a></title>
 </head>
 
 <body>
     <header>
         <figure><img src="images/notebook.gif" width="200"></figure>
-        <h1>Digital Media. Creating Websites</h1>
+        <h1>Story</h1>
     </header>
     <nav>
-        <p><a href="index.html">Home</a></p>
-        <p><a href="page1.html">Structure and presentation</a></p>
-        <p><a href="page2.html">Interactivity</a></p>
+        <p><a href="index.html">Welcome</a></p>
+        <p><a href="page1.html">presentation</a></p>
+        <p><a href="page2.html">Story</a></p>
+        <p><a href="Page3.html">instructions</a></p>
     </nav>
     <div id="content">
         <h1>Structure and presentation</h1>

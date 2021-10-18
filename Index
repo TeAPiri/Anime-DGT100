@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Digital Media. Creating Website</title>
+</head>
+
+<body>
+    <header>
+        <figure><img src="images/notebook.gif" width="200"></figure>
+        <h1>Digital Media. Creating Websites</h1>
+    </header>
+    <nav>
+        <p><a href="index.html">Home</a></p>
+        <p><a href="page1.html">Structure and presentation</a></p>
+        <p><a href="page2.html">Interactivity</a></p>
+    </nav>
+    <div id="content">
+        <h1>Welcome</h1>
+        <p>Welcome to this web site demonstration. This site will be used to demonstrate how to look behind the scenes
+            on an existing web site to see how it is built and will serve as an example for a site you will create.</p>
+        <p>But first, what is a web site and what is digital media?</p>
+        <h1>What is digital media?</h1>
+        <p>According to <a href="https://en.wikipedia.org/wiki/Digital_media" target="_blank">Wikipedia</a> digital
+            media are any media that can be created, viewed, changed, stored and shared on digital devices. Digital
+            media is typically accessed using an App or website.</p>
+        <figure class="centre">
+            <img src="https://www.mita.gov.mt/en/ict-features/PublishingImages/2018/dig-trad-mkting-1.jpg"
+                alt="Digital versus Traditional Media Infographic." width="500">
+            <figcaption class="small italics">Image &copy; Malta Information Technology Agency.</figcaption>
+        </figure>
+
+        <h2>Ok... So what is media?</h2>
+        <p>Media includes a lot of things but are usually images, text, audio, video and databases. When combined
+            together this means media includes animations, movies, web series, TV, radio, games, books, podcasts, news
+            articles, websites, instruction manuals and more.</p>
+        <p>Media is basically everything we create, change, share, view and store. Digital media is everything we
+            create, change, share, view and store using an App or website.</p>
+        <h1>What is a web site?</h1>
+        <p>A web site is a collection of web pages linked to a single name, such as
+            <a href="https://www.google.com" target="_blank">google.com</a>, or
+            <a href="http://www.learncoach.com" target="_blank">learncoach.com</a>. This name is called a Domain Name
+            and you can get one for each of your own web sites, usually for a small annual price.</p>
+        <p>A web page is what you are viewing right now. A single digital media page designed to be viewed in an app
+            called a web browser.</p>
+        <!--
+            |￣￣￣￣￣￣￣￣|
+            | You found me! |
+            |＿＿＿＿＿＿＿＿|
+            (\__/) ||
+            (•ㅅ•) ||
+            / 　 づ
+        -->
+    </div>
+    <footer>
+        <p class="centre">&copy; 2019 LearnCoach.</p>
+    </footer>
+</body>
+
+</html>
+

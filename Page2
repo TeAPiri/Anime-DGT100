@@ -12,7 +12,7 @@
 
 <body>
     <header>
-        <figure><img src="images/notebook.gif" width="200"></figure>
+        <figure><img src="https://o.remove.bg/downloads/8a3bd37b-85f5-403f-9edf-5d7da4256dac/unnamed-removebg-preview.png" width="200"></figure>
         <h1>Story</h1>
     </header>
     <nav>
@@ -22,7 +22,7 @@
         <p><a href="Page3.html">instructions</a></p>
     </nav>
     <div id="content">
-        <h1>Structure and presentation</h1>
+        <h1>Presentation</h1>
         <figure class="centre float italics small">
             <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
                 <img src="images/html5_logo.png" alt="HTML 5 Logo." width="150">
